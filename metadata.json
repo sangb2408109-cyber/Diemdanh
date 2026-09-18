@@ -1,0 +1,11 @@
+{
+  "name": "Điểm Danh Sinh Viên",
+  "description": "Hệ thống điểm danh sinh viên với định vị GPS, tạo mã QR, quản lý lớp học, các ngành Sư phạm ĐH Cần Thơ, xuất báo cáo lịch sử điểm danh ra file Excel (.csv) và gửi email thông báo xác nhận.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
